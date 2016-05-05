@@ -5,8 +5,6 @@ import time
 import json
 '''
 抓取 one 一个首页的脚本
-
-
 '''
 
 root_url = 'http://wufazhuce.com'
